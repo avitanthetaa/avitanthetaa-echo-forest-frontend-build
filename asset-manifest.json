@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.dfccc621.css",
-    "main.js": "/static/js/main.42ee9555.js",
+    "main.js": "/static/js/main.84b92568.js",
     "static/js/787.5bbbb844.chunk.js": "/static/js/787.5bbbb844.chunk.js",
     "static/media/Mouse Archer.png": "/static/media/Mouse Archer.48e2905df6aa706b6fb0.png",
     "static/media/Bee Warrior.png": "/static/media/Bee Warrior.ad5ea4996f96680f1cb1.png",
-    "static/media/Bee Wizard.png": "/static/media/Bee Wizard.ad5ea4996f96680f1cb1.png",
     "static/media/Frog Wizard.png": "/static/media/Frog Wizard.f9b40d71da0526ab5042.png",
     "static/media/Frog Healer.png": "/static/media/Frog Healer.fbcd083f0392f8fe21e4.png",
     "static/media/Bird Necromancer.png": "/static/media/Bird Necromancer.d7b4bfe35298876981cc.png",
@@ -53,6 +52,7 @@
     "static/media/Moth Necromancer.png": "/static/media/Moth Necromancer.b5b8b0946d4a5913369e.png",
     "static/media/Frog Pirate.png": "/static/media/Frog Pirate.786e4f633784d90ecc91.png",
     "static/media/Squirrel Wizard.png": "/static/media/Squirrel Wizard.fca02a5c771c1a3be678.png",
+    "static/media/Bee Wizard.png": "/static/media/Bee Wizard.2f422e20972a38f8386d.png",
     "static/media/SliderImage1.png": "/static/media/SliderImage1.f4c019d512b0ca8572d2.png",
     "static/media/SliderImage5.png": "/static/media/SliderImage5.386aa73e528b9f92dc4c.png",
     "static/media/roadmapmint-january.png": "/static/media/roadmapmint-january.b8b6f55bfba39b6218f3.png",
@@ -99,11 +99,11 @@
     "index.html": "/index.html",
     "static/media/chart_small.svg": "/static/media/chart_small.8ccc18892a9467d385b2cd31126418a1.svg",
     "main.dfccc621.css.map": "/static/css/main.dfccc621.css.map",
-    "main.42ee9555.js.map": "/static/js/main.42ee9555.js.map",
+    "main.84b92568.js.map": "/static/js/main.84b92568.js.map",
     "787.5bbbb844.chunk.js.map": "/static/js/787.5bbbb844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfccc621.css",
-    "static/js/main.42ee9555.js"
+    "static/js/main.84b92568.js"
   ]
 }
