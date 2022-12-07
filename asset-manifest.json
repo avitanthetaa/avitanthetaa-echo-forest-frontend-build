@@ -1,21 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.dfccc621.css",
-    "main.js": "/static/js/main.84b92568.js",
+    "main.css": "/static/css/main.27178879.css",
+    "main.js": "/static/js/main.90b4be5b.js",
     "static/js/787.5bbbb844.chunk.js": "/static/js/787.5bbbb844.chunk.js",
+    "static/media/Owl Healer.png": "/static/media/Owl Healer.7901224d132a87baaf45.png",
     "static/media/Mouse Archer.png": "/static/media/Mouse Archer.48e2905df6aa706b6fb0.png",
+    "static/media/Owl Pirate.png": "/static/media/Owl Pirate.057cd13819b91190bdd7.png",
+    "static/media/Owl Necromancer.png": "/static/media/Owl Necromancer.bdea26b13b907310eda8.png",
     "static/media/Bee Warrior.png": "/static/media/Bee Warrior.ad5ea4996f96680f1cb1.png",
     "static/media/Frog Wizard.png": "/static/media/Frog Wizard.f9b40d71da0526ab5042.png",
     "static/media/Frog Healer.png": "/static/media/Frog Healer.fbcd083f0392f8fe21e4.png",
     "static/media/Bird Necromancer.png": "/static/media/Bird Necromancer.d7b4bfe35298876981cc.png",
     "static/media/Mouse Warrior.png": "/static/media/Mouse Warrior.1fc5f1514a19c1f27d4b.png",
     "static/media/Bee Necromancer.png": "/static/media/Bee Necromancer.53af79a75dc35288795a.png",
+    "static/media/Owl Bard.png": "/static/media/Owl Bard.2f59bfce911eaa008603.png",
     "static/media/Frog Bard.png": "/static/media/Frog Bard.4402f748b3a12619d71e.png",
     "static/media/Deer Healer.png": "/static/media/Deer Healer.a31bdd655482a1f09316.png",
     "static/media/Bird Healer.png": "/static/media/Bird Healer.8b8bd589089cecfe59c9.png",
     "static/media/Mouse Wizard.png": "/static/media/Mouse Wizard.00fb0ee782964d843c6e.png",
     "static/media/Squirrel Warrior.png": "/static/media/Squirrel Warrior.547b212d8e8a6f02edc4.png",
     "static/media/Mouse Necromancer.png": "/static/media/Mouse Necromancer.e28b6f021daa10882e5b.png",
+    "static/media/Owl Wizard.png": "/static/media/Owl Wizard.df7005d1c005906bf331.png",
     "static/media/Moth Warrior.png": "/static/media/Moth Warrior.960ac90a1cb38ab6ffc7.png",
     "static/media/Wolf Archer.png": "/static/media/Wolf Archer.3dcf3a1652edfef627a2.png",
     "static/media/Mouse Healer.png": "/static/media/Mouse Healer.32bd8700d933c40f95c1.png",
@@ -28,6 +33,7 @@
     "static/media/Frog Archer.png": "/static/media/Frog Archer.8c11f9138c2ea2133aed.png",
     "static/media/Bird Archer.png": "/static/media/Bird Archer.add26af972526b6aba9d.png",
     "static/media/Squirrel Healer.png": "/static/media/Squirrel Healer.6cc2aa505a60706cee5f.png",
+    "static/media/Owl Warrior.png": "/static/media/Owl Warrior.d9a39e9b2883d198f6e3.png",
     "static/media/Bee Archer.png": "/static/media/Bee Archer.1bdc0a30e9ceacfe4115.png",
     "static/media/Bird Warrior.png": "/static/media/Bird Warrior.4478947abbcf8c800fe7.png",
     "static/media/Wolf Warrior.png": "/static/media/Wolf Warrior.1d5451d63c9b2223ee42.png",
@@ -48,6 +54,7 @@
     "static/media/Frog Warrior.png": "/static/media/Frog Warrior.568f3717ef857dfeeb0b.png",
     "static/media/Mouse Pirate.png": "/static/media/Mouse Pirate.a09a1742b63e796ee7fa.png",
     "static/media/dummyphto.png": "/static/media/dummyphto.a006ceb80c132eca505f.png",
+    "static/media/Owl Archer.png": "/static/media/Owl Archer.6eca991aab8b60a7db15.png",
     "static/media/Wolf Necromancer.png": "/static/media/Wolf Necromancer.7ed2ff9f8ecc8a4330aa.png",
     "static/media/Moth Necromancer.png": "/static/media/Moth Necromancer.b5b8b0946d4a5913369e.png",
     "static/media/Frog Pirate.png": "/static/media/Frog Pirate.786e4f633784d90ecc91.png",
@@ -98,12 +105,12 @@
     "static/media/3.svg": "/static/media/3.8ca2e6bc8ff6c4569d0878833885dccd.svg",
     "index.html": "/index.html",
     "static/media/chart_small.svg": "/static/media/chart_small.8ccc18892a9467d385b2cd31126418a1.svg",
-    "main.dfccc621.css.map": "/static/css/main.dfccc621.css.map",
-    "main.84b92568.js.map": "/static/js/main.84b92568.js.map",
+    "main.27178879.css.map": "/static/css/main.27178879.css.map",
+    "main.90b4be5b.js.map": "/static/js/main.90b4be5b.js.map",
     "787.5bbbb844.chunk.js.map": "/static/js/787.5bbbb844.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dfccc621.css",
-    "static/js/main.84b92568.js"
+    "static/css/main.27178879.css",
+    "static/js/main.90b4be5b.js"
   ]
 }
