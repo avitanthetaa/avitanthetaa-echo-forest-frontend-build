@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.653694aa.css",
-    "main.js": "/static/js/main.56b4a08e.js",
+    "main.js": "/static/js/main.752a849b.js",
     "static/js/787.5bbbb844.chunk.js": "/static/js/787.5bbbb844.chunk.js",
     "static/media/Owl Healer.png": "/static/media/Owl Healer.7901224d132a87baaf45.png",
     "static/media/Mouse Archer.png": "/static/media/Mouse Archer.48e2905df6aa706b6fb0.png",
@@ -106,11 +106,11 @@
     "index.html": "/index.html",
     "static/media/chart_small.svg": "/static/media/chart_small.46bc00348c11f43e908cacc326432570.svg",
     "main.653694aa.css.map": "/static/css/main.653694aa.css.map",
-    "main.56b4a08e.js.map": "/static/js/main.56b4a08e.js.map",
+    "main.752a849b.js.map": "/static/js/main.752a849b.js.map",
     "787.5bbbb844.chunk.js.map": "/static/js/787.5bbbb844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.653694aa.css",
-    "static/js/main.56b4a08e.js"
+    "static/js/main.752a849b.js"
   ]
 }
