@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.653694aa.css",
-    "main.js": "/static/js/main.752a849b.js",
+    "main.js": "/static/js/main.0efcc23b.js",
     "static/js/787.5bbbb844.chunk.js": "/static/js/787.5bbbb844.chunk.js",
     "static/media/Owl Healer.png": "/static/media/Owl Healer.7901224d132a87baaf45.png",
     "static/media/Mouse Archer.png": "/static/media/Mouse Archer.48e2905df6aa706b6fb0.png",
@@ -63,6 +63,7 @@
     "static/media/SliderImage1.png": "/static/media/SliderImage1.f4c019d512b0ca8572d2.png",
     "static/media/SliderImage5.png": "/static/media/SliderImage5.386aa73e528b9f92dc4c.png",
     "static/media/roadmapmint-january.png": "/static/media/roadmapmint-january.b8b6f55bfba39b6218f3.png",
+    "static/media/Upcoming_Mints_JAN-FEB_2023.png": "/static/media/Upcoming_Mints_JAN-FEB_2023.5e77bd70b4e3e8dc743b.png",
     "static/media/Top_Banner 1 (1).png": "/static/media/Top_Banner 1 (1).0c2ad6582fbe090d65fb.png",
     "static/media/roadmapmint-march.png": "/static/media/roadmapmint-march.cc7e6805bbbd5dfd24b8.png",
     "static/media/roadmapmint-february.png": "/static/media/roadmapmint-february.3ecdde16d7220809447e.png",
@@ -77,11 +78,7 @@
     "static/media/card5.svg": "/static/media/card5.e0f2628d8e8167ce76fbef78a1bf6350.svg",
     "static/media/card_small3.svg": "/static/media/card_small3.2340e528d0a8399362929aae63eff45f.svg",
     "static/media/card3.svg": "/static/media/card3.a80659a2088025e13cdcb2f3de995e18.svg",
-    "static/media/card1.svg": "/static/media/card1.426a3534d632791f6ac77d48cb7de21e.svg",
-    "static/media/card_small1.svg": "/static/media/card_small1.9b9478dfaec3a08e498f4006734c2104.svg",
-    "static/media/card2.svg": "/static/media/card2.e4c22311ae1999856cf2fd583d819344.svg",
     "static/media/Drewselstinian.png": "/static/media/Drewselstinian.fb7efce6195353100540.png",
-    "static/media/card_small2.svg": "/static/media/card_small2.36f82f7e6d01f5c116e4b9c0901cdcec.svg",
     "static/media/Mohttaj.png": "/static/media/Mohttaj.b89b6d474a5754136efd.png",
     "static/media/Kamila.png": "/static/media/Kamila.23460377e45959339f9d.png",
     "static/media/Matt.png": "/static/media/Matt.bb07cc7d957091735230.png",
@@ -90,6 +87,8 @@
     "static/media/card_small4.svg": "/static/media/card_small4.3e2a3757541f611b996ad919029b6193.svg",
     "static/media/Anandi.png": "/static/media/Anandi.e840ec1fd0093350b6ff.png",
     "static/media/thankyou.png": "/static/media/thankyou.26606bcdcf8ebe4fcbb3.png",
+    "static/media/Group151.png": "/static/media/Group151.f03e26869ba19714338b.png",
+    "static/media/Group140.png": "/static/media/Group140.7449499d63a2069ed0c6.png",
     "static/media/4.svg": "/static/media/4.a98e7bc11851ba4e55071cc989f76b61.svg",
     "static/media/2.svg": "/static/media/2.b8027db7b68217191bf0662742e280c2.svg",
     "static/media/watch_small.svg": "/static/media/watch_small.1d90621e8490304ff7d2628d0a370a91.svg",
@@ -106,11 +105,11 @@
     "index.html": "/index.html",
     "static/media/chart_small.svg": "/static/media/chart_small.46bc00348c11f43e908cacc326432570.svg",
     "main.653694aa.css.map": "/static/css/main.653694aa.css.map",
-    "main.752a849b.js.map": "/static/js/main.752a849b.js.map",
+    "main.0efcc23b.js.map": "/static/js/main.0efcc23b.js.map",
     "787.5bbbb844.chunk.js.map": "/static/js/787.5bbbb844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.653694aa.css",
-    "static/js/main.752a849b.js"
+    "static/js/main.0efcc23b.js"
   ]
 }
