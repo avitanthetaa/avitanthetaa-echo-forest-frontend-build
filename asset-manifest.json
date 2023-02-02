@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e6256717.css",
-    "main.js": "/static/js/main.d0db6b7d.js",
+    "main.js": "/static/js/main.17ac8994.js",
     "static/js/787.5bbbb844.chunk.js": "/static/js/787.5bbbb844.chunk.js",
     "static/media/cartoon-fox.png": "/static/media/cartoon-fox.6aa320a75515c008ebef.png",
     "static/media/Bird Healer.png": "/static/media/Bird Healer.84d7494b6a1f5e74319f.png",
@@ -105,11 +105,11 @@
     "index.html": "/index.html",
     "static/media/chart_small.svg": "/static/media/chart_small.46bc00348c11f43e908cacc326432570.svg",
     "main.e6256717.css.map": "/static/css/main.e6256717.css.map",
-    "main.d0db6b7d.js.map": "/static/js/main.d0db6b7d.js.map",
+    "main.17ac8994.js.map": "/static/js/main.17ac8994.js.map",
     "787.5bbbb844.chunk.js.map": "/static/js/787.5bbbb844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6256717.css",
-    "static/js/main.d0db6b7d.js"
+    "static/js/main.17ac8994.js"
   ]
 }
